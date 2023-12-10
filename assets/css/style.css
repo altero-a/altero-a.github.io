@@ -406,7 +406,7 @@ h6 {
 #hero {
   width: 100%;
   min-height: 100vh;
-  background: url("../img/Background/aleex.gif") top center;
+  background: url("../img/Background/Last.gif") top center;
   background-size: cover;
   position: relative;
 }
@@ -706,7 +706,7 @@ section {
 # Cta
 --------------------------------------------------------------*/
 .cta {
-  background: linear-gradient(rgba(2, 2, 2, 0.5), rgba(0, 0, 0, 0.5)), url("../img/Background/633.gif") fixed center center;
+  background: linear-gradient(rgba(2, 2, 2, 0.5), rgba(0, 0, 0, 0.5)), url("../img/Background/aleex.gif") fixed center center;
   background-size: cover;
   padding: 60px 0;
 }
