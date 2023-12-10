@@ -412,7 +412,6 @@ h6 {
 }
 
 #hero:before {
-  content: "";
   background: rgba(0, 0, 0, 0.6);
   position: absolute;
   bottom: 0;
@@ -437,7 +436,7 @@ h6 {
 }
 
 #hero h1 span {
-  color: #ffc451;
+  color: #ffffff;
 }
 
 #hero h2 {
