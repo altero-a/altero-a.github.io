@@ -503,7 +503,7 @@ h6 {
 /*--------------------------------------------------------------
 # Sections General
 --------------------------------------------------------------*/
-section {
+.section {
   padding: 60px 0;
   overflow: hidden;
   background: url("../img/Act2.png") top right;
@@ -548,7 +548,7 @@ section {
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
-about {
+.about {
   background: url("../img/Act2.png") top right;
   background-size: cover;
 }
