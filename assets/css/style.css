@@ -548,6 +548,11 @@ section {
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
+about {
+  background: url("../img/INID.gif") top right;
+  background-size: cover;
+}
+
 .about .content h3 {
   font-weight: 700;
   font-size: 28px;
