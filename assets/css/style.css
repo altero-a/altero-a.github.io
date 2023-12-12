@@ -506,6 +506,8 @@ h6 {
 section {
   padding: 60px 0;
   overflow: hidden;
+  background: url("../img/Act2.png") top right;
+  background-size: cover;
 }
 
 .section-title {
