@@ -548,11 +548,6 @@ h6 {
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
-.about {
-  background: url("../img/Act2.png") top right;
-  background-size: cover;
-}
-
 .about .content h3 {
   font-weight: 700;
   font-size: 28px;
